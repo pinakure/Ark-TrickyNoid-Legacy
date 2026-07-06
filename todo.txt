@@ -1,0 +1,4 @@
+BUTTON hasn't to create one but three surfaces (Normal, Hover, Pressed)
+WINDOW has to create it's own widgets independently.
+Property inheritage  must be made correctly
+

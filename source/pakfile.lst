@@ -1,0 +1,10 @@
+; Editor Resources
+$100  f 	FONT_HUD			gfx/system/f_hud.bmp
+$101  f 	FONT_HUD_SHADOW		gfx/system/f_hud_shadow.bmp
+$102  f 	FONT_EDITOR			gfx/system/f_editor.bmp
+$103  f 	FONT_SYMBOL			gfx/system/f_symbol.bmp
+$104  f 	TILE_DIALOG			gfx/system/t_dialog.bmp
+$106  f 	ICON_BUTTONS		gfx/system/i_buttons.bmp
+$107  f 	ICON_CURSOR			gfx/system/i_cursor.bmp
+$108  f 	ICON_SPRICT			gfx/system/i_sprict.bmp
+
